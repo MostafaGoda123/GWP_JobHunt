@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/GWP_JobHunt/static/css/main.1bb8af03.css",
+    "main.js": "/GWP_JobHunt/static/js/main.b3a586b9.js",
+    "static/media/cool-background.png": "/GWP_JobHunt/static/media/cool-background.8c252db8e4acab4196d4.png",
+    "static/media/tesla.png": "/GWP_JobHunt/static/media/tesla.07f612597196a0c119d9.png",
+    "static/media/sap.jpeg": "/GWP_JobHunt/static/media/sap.b2bc7f8625809466165a.jpeg",
+    "static/media/logo.png": "/GWP_JobHunt/static/media/logo.06b61cdf894b2258f1ee.png",
+    "static/media/flp.jpeg": "/GWP_JobHunt/static/media/flp.5f02dfcba9db57b63d0b.jpeg",
+    "static/media/synopsys.png": "/GWP_JobHunt/static/media/synopsys.bea76ee6b322b1da4d3d.png",
+    "static/media/oracle.png": "/GWP_JobHunt/static/media/oracle.c07667e36b072b6a4208.png",
+    "static/media/amazon.png": "/GWP_JobHunt/static/media/amazon.138c5b5e99765ffac1a1.png",
+    "static/media/tcs.webp": "/GWP_JobHunt/static/media/tcs.a7873527060d53dadef1.webp",
+    "static/media/accenture.jpeg": "/GWP_JobHunt/static/media/accenture.efd3e5718eac1fbe59e7.jpeg",
+    "static/media/paytm.png": "/GWP_JobHunt/static/media/paytm.fd7bf2f466023f3c3ace.png",
+    "static/media/ibm.jpeg": "/GWP_JobHunt/static/media/ibm.b700f9aef98d6a67d5ad.jpeg",
+    "static/media/cognizant.webp": "/GWP_JobHunt/static/media/cognizant.322b3a8a75fff5cbbc7d.webp",
+    "index.html": "/GWP_JobHunt/index.html",
+    "main.1bb8af03.css.map": "/GWP_JobHunt/static/css/main.1bb8af03.css.map",
+    "main.b3a586b9.js.map": "/GWP_JobHunt/static/js/main.b3a586b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bb8af03.css",
+    "static/js/main.b3a586b9.js"
+  ]
+}
